@@ -5,6 +5,21 @@ vebounce
 
 An extremely simple javascript debouncer with no external dependencies.
 
+Usage
+-----
+
+```
+function foo() {
+  console.log('foo called!');
+}
+
+var debouncedFoo = window.vebounce(foo, 500);
+
+debouncedFoo(); // Replaced by the next call
+debouncedFoo(); // Replaced by the next call
+debouncedFoo(); // Runs in 500 milliseconds unless called again
+```
+
 License
 --------
 
