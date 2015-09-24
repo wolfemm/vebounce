@@ -1,4 +1,4 @@
-Vanilla Debouncer
+vebounce
 =================
 
 **v**(anilla) (d)**ebounce**(er).
