@@ -1,5 +1,5 @@
 {
-  "name": "vebounce.js",
+  "name": "vebounce",
   "description": "A simple javascript debounced with 0 dependencies.",
   "main": "vebounce.js",
   "authors": [
