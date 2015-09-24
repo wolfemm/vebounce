@@ -1,0 +1,16 @@
+{
+  "name": "vebounce.js",
+  "description": "A simple javascript debounced with 0 dependencies.",
+  "main": "vebounce.js",
+  "authors": [
+    "Michael Millard <mike@livechart.me>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
